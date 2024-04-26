@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Point.cpp">
+    <ClCompile Include="1_21.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,6 +24,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Version_test.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
